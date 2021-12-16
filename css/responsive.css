@@ -28,6 +28,9 @@
  .slideshow{
     margin-bottom: 12px;
 }
+    .container1 {
+    margin-top: 95px;
+}
 }
 @media (min-width: 768px){
     .menu a {
