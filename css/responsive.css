@@ -29,6 +29,8 @@
     margin-bottom: 12px;
 }
 }
-@media (max-width: 576px){
-
+@media (min-width: 768px){
+    .menu a {
+        font-size: 12px;
+    }
 }
